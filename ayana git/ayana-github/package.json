@@ -1,0 +1,10 @@
+{
+  "name": "ayana-marketplace",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Ayana — marketplace multi-vendeurs Niger",
+  "scripts": {
+    "test": "node --test src/domain/*.test.mjs",
+    "dev": "python3 -m http.server 8000"
+  }
+}
